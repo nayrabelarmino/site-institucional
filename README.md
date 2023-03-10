@@ -1,2 +1,2 @@
 # site-institucional
-Site institucional criado na aula de PI para fins educativos.
+Site institucional criado na aula de PI para fins educacionais.
